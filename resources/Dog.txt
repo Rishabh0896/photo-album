@@ -1,0 +1,28 @@
+# Make a dog with rectangles and ovals
+shape background rectangle 0 0 800 800 33 94 248
+shape faceOut rectangle 88 98 134 104 0 0 0
+shape face rectangle 90 100 130 100 255 165 0
+shape whiskerOne oval 95 160 2 2 0 0 0
+shape whiskerTwo oval 100 155 2 2 0 0 0
+shape whiskerThree oval 105 160 2 2 0 0 0
+shape ear rectangle 200 98 60 30 0 0 0
+shape nose rectangle 90 100 30 30 0 0 0
+shape eyePatch rectangle 140 100 80 80 0 0 0
+shape eye oval 170 130 20 20 255 255 255
+shape mouth rectangle 90 180 40 10 0 0 0
+shape eyeBall oval 160 130 9 9 0 0 0
+shape bodyOut rectangle 220 148 204 124 0 0 0
+shape body rectangle 222 150 200 120 255 165 0
+shape bodyPatchOne rectangle 222 210 20 40 0 0 0
+shape bodyPatchTwo rectangle 262 150 90 60 0 0 0
+shape bodyPatchThree rectangle 332 220 50 30 0 0 0
+shape tail rectangle 424 148 30 60 0 0 0
+shape legOneOut rectangle 220 272 30 50 0 0 0
+shape legOne rectangle 222 272 26 48 255 165 0
+shape legTwoOut rectangle 248 272 26 42 0 0 0
+shape legTwo rectangle 250 272 22 40 255 165 0
+shape legThreeOut rectangle 370 272 30 50 0 0 0
+shape legThree rectangle 372 272 26 48 255 165 0
+shape legFourOut rectangle 398 272 26 42 0 0 0
+shape legFour rectangle 400 272 22 40 255 165 0
+snapshot Dog
